@@ -19,6 +19,8 @@ https://github.com/samyarkd/telegram_profile_auto_change
 
 https://github.com/bazzazi/group_chat_bot_for_telegram_python
 
-Medium:
+Others:
 
 https://medium.com/@ManHay_Hong/how-to-create-a-telegram-bot-and-send-messages-with-python-4cf314d9fa3e
+
+https://www.dignited.com/25296/how-to-create-telegram-bot-for-telegram-channel/
