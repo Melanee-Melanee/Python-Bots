@@ -1,11 +1,21 @@
+
+# Each step is going to be a new prompt for next steps.
+
+
+
+
+
+
+## First Step: chatbot, text generation 
+This step is an implementation of a simple chatbot using TensorFlow, which is a machine learning framework developed by Google. The chatbot is trained using a neural network to classify user inputs into predefined intents and provide appropriate responses based on the detected intent.
+The intents.json file is the data that we will provide to our chatbot.
 References: 
 
 https://www.youtube.com/watch?v=t933Gh5fNrc
 
-https://github.com/abhisarahuja/create_chatbot_using_python
+## Second step: Speech recognition, voice generatoin 
 
 
-# create_chatbot_using_python
-This code is an implementation of a simple chatbot using TensorFlow, which is a machine learning framework developed by Google. The chatbot is trained using a neural network to classify user inputs into predefined intents and provide appropriate responses based on the detected intent.
-The intents.json file is the data that we will provide to our chatbot 
+
+## Third Step: Video generation 
 
