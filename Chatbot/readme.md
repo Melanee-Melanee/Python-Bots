@@ -14,9 +14,15 @@ https://www.youtube.com/watch?v=t933Gh5fNrc
 
 ## Second Step: Speech recognition, voice generatoin 
 
+https://www.youtube.com/watch?v=gTn1fXYw9sU
+
 https://github.com/bhattbhavesh91/voice-assistant-whisper-chatgpt
 
 
 
-## Third Step: Video assistant, Video generation 
+## Third Step:  voice + image = video, Video generation 
+
+https://www.heygen.com/
+
+https://www.leewayhertz.com/create-generative-video-model/
 
