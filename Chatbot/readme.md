@@ -23,6 +23,8 @@ https://github.com/bhattbhavesh91/voice-assistant-whisper-chatgpt
 ## Third Step:  voice + image = video, Video generation 
 
 https://www.heygen.com/
+         
+https://huggingface.co/papers/2305.10973 
 
 https://www.leewayhertz.com/create-generative-video-model/
 
