@@ -26,3 +26,7 @@ https://www.heygen.com/
 
 https://www.leewayhertz.com/create-generative-video-model/
 
+Deep fake project:
+
+https://github.com/Melanee-Melanee/Deep-Fake
+
