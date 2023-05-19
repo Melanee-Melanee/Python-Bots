@@ -1,9 +1,8 @@
 
+
+https://github.com/Melanee-Melanee/Python-Bots/assets/74653444/5f3fcfa8-f5a1-460c-ad01-b0f5dce3a150
+
 # Each step is going to be a new prompt for next steps.
-
-
-
-
 
 
 ## First Step: chatbot, text generation 
@@ -13,9 +12,11 @@ References:
 
 https://www.youtube.com/watch?v=t933Gh5fNrc
 
-## Second step: Speech recognition, voice generatoin 
+## Second Step: Speech recognition, voice generatoin 
+
+https://github.com/bhattbhavesh91/voice-assistant-whisper-chatgpt
 
 
 
-## Third Step: Video generation 
+## Third Step: Video assistant, Video generation 
 
