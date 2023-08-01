@@ -14,6 +14,7 @@ import pickle
 
 import numpy as np
 from keras.models import Sequential
+#creating neural networks 
 from keras.layers import Dense, Activation, Dropout
 from keras.optimizers import SGD
 import random
