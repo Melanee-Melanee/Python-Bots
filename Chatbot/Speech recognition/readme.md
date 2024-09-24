@@ -1,3 +1,8 @@
+## Reference:
+
+https://github.com/bhattbhavesh91/voice-assistant-whisper-chatgpt
+
+
 # Create a Smart Voice Assistant using Open AI's ChatGPT, Whisper, Python & Gradio | Python Project
 
 **Link to the official PyChatGPT Repo : https://github.com/terry3041/pyChatGPT**
@@ -24,6 +29,4 @@ or click on the image below
 ](http://img.youtube.com/vi/lBCoktYvSKg/0.jpg)](http://www.youtube.com/watch?v=lBCoktYvSKg)
 
 
-## Disclaimer
 
-This project is not affiliated with OpenAI in any way. Use at your own risk. I am not responsible for any damage caused by this project. Please read the [OpenAI Terms of Service](https://beta.openai.com/terms) before using this project.
